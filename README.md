@@ -44,7 +44,7 @@ Both are connected via a shared backend (Supabase + Node.js) to allow seamless s
 ## Project Structure
 
 ### Web Platform – Scrape AI
-backend/
+````backend/
 ├── node_modules/
 ├── .env
 ├── package-lock.json
